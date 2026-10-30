@@ -30,7 +30,10 @@ I'm an Artificial Intelligence and Data Science graduate from The Apollo Univers
 
 ## Selected projects
 
-### Multilingual AI Voice Assistant
+### Insurance Analysis with GenAI
+Built a Python insurance assistant combining policy-document retrieval with structured insurance data tools. The supplied project includes a Streamlit interface, FastAPI endpoints, retrieval components, and evaluation tests.
+
+### SunoSeva — Multilingual AI Voice Assistant
 Developed a voice assistant that supports natural voice commands and conversational task guidance. Built voice-based workflows to simplify everyday tasks and provide automated assistance.
 
 ### Food Inventory Risk Forecasting System
